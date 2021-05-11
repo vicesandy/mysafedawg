@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "SafeDawg",
+    "slug": "SafeDawg",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/police.png",
+    "splash": {
+      "image": "./assets/images/police.png",
+      "resizeMode": "contain",
+      "backgroundColor": "red"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
